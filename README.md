@@ -57,5 +57,13 @@ The code for measuring the memory profile is provided in `memory_utils.py`. This
 If this work, its findings or settings are helpful in your research, please consider citing our paper:
 
 ```
-To be updated soon.
+@misc{tenison2025adabetgradientfreelayerselection,
+      title={AdaBet: Gradient-free Layer Selection for Efficient Training of Deep Neural Networks}, 
+      author={Irene Tenison and Soumyajit Chatterjee and Fahim Kawsar and Mohammad Malekzadeh},
+      year={2025},
+      eprint={2510.03101},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.03101}, 
+}
 ```
