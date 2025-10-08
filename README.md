@@ -9,6 +9,7 @@
 </div>
 
 ## :rocket: Updates
+- Oct 8th 2025: The paper is available on [Arxiv](https://arxiv.org/abs/2510.03101).
 - Oct 2nd 2025: The code for AdaBet is available on [GitHub](https://github.com/Nokia-Bell-Labs/efficient_layer_selection).
 
 ## :book: Summary
